@@ -1,0 +1,16 @@
+[
+  {
+    "id": "SHOP001",
+    "shopName": "Village Care Medicals",
+    "area": "Demo Rural Area",
+    "phone": "9000000001",
+    "verified": true
+  },
+  {
+    "id": "SHOP002",
+    "shopName": "Health First Pharmacy",
+    "area": "Demo Rural Area",
+    "phone": "9000000002",
+    "verified": true
+  }
+]
