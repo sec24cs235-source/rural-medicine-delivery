@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MED001",
+    "name": "Paracetamol 500mg",
+    "shopId": "SHOP001",
+    "price": 20,
+    "stock": 50,
+    "prescriptionRequired": false
+  },
+  {
+    "id": "MED002",
+    "name": "Vitamin B12 Tablets",
+    "shopId": "SHOP001",
+    "price": 80,
+    "stock": 30,
+    "prescriptionRequired": false
+  },
+  {
+    "id": "MED003",
+    "name": "Amoxicillin 500mg",
+    "shopId": "SHOP002",
+    "price": 95,
+    "stock": 20,
+    "prescriptionRequired": true
+  }
+]
